@@ -1,1 +1,0 @@
-<? $filesInfo = array( 'FILES' => array("/bitrix/components/bitrix/map.google.view/templates/.default/script.js" => "15287928771188",)); ?>

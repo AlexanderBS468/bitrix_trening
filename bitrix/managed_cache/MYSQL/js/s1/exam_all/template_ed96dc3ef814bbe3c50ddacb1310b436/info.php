@@ -1,1 +1,0 @@
-<? $filesInfo = array( 'FILES' => array("/local/templates/exam_all/components/bitrix/menu/Exam_all_horizontal_multilevel1/script.js" => "1529308854407",)); ?>
